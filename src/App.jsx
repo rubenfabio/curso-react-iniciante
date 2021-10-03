@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route} from 'react-router-dom';
 import axios from 'axios';
 
 
-import './App.css';
+import './styles/App.css';
 
 import AddTask from './components/AddTask';
 import Tasks from './components/Tasks';
